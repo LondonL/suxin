@@ -1,0 +1,94 @@
+*{margin: 0;
+  padding: 0;
+  list-style: none;}
+a{text-decoration: none;}
+
+
+.top{height: 80px;
+	 width:100%; 
+     background-color: rgba(0,0,0,0.15);
+     position: fixed;
+     left: 0;
+     top: 0;
+     z-index: 999;}
+.daohang{height: 80px;
+	        width: 1578px;
+            background-color: rgba(0,0,0,0);
+            margin: 0 auto;}
+.logo{float: left;
+      margin-top:20px;
+      margin-left: 150px;}
+.xuanxiang{float: right;
+           margin-top:30px;
+           margin-right: 140px;}
+.one{color: #16B0DC;
+     font-size: 14px;
+     margin-left: 25px;}
+.two{color: white;
+     font-size: 14px;
+     margin-left: 25px;}
+.two:hover{color: #16B0DC;}
+/*导航栏*/
+
+.pic{
+  height: 510px;
+  width: 1578px;
+  margin: 0 auto;
+}
+.pic img{
+  height: 510px;
+  width: 1578px;
+}
+/*图片*/
+.white{
+  height: 50px;
+  background-color: white;
+}
+.bigbiaoti{height: 110px;
+           border-color: white;
+           text-align: center;
+           font-size: 34px;
+           color: rgba(0,0,0,0.7);}
+.littlebiaoti{height: 50px;
+              border-color: white;
+              text-align: center;
+              font-size: 16px;
+             color: rgba(0,0,0,0.6);}
+.wenzhang01{height: 35px;
+              border-color: white;
+              text-align: center;
+              font-size: 16px;
+             color: rgba(0,0,0,0.6);}
+.ditu{height: 452px;
+      width: 652px;
+      border-color: white;
+      margin: 0 auto;}
+.dibu{height: 160px;
+    width: 100%;
+      background-color: #F5F5F5;
+      border: 1px;
+      border-style: solid;
+      border-color: #F5F5F5;}
+.qq{height: 40px;
+    width: 160px;
+    background-color: #F5F5F5;
+    margin: 0 auto;
+    margin-top: 25px;
+    margin-bottom: 25px;}
+.beian{height: 25px;
+     width: 420px;
+       background-color: #F5F5F5;
+       color: #16B0DC;
+       margin: 0 auto;}
+.lianxi{height: 25px;
+        width: 300px;
+        background-color: #F5F5F5;
+        font-size: 16px;
+        color: rgba(0,0,0,0.5);
+        margin: 0 auto;}
+.banquan{height: 25px;
+        width: 360px;
+        background-color: #F5F5F5;
+        font-size: 16px;
+        color: rgba(0,0,0,0.5);
+        margin: 0 auto;}

@@ -1,0 +1,192 @@
+*{margin: 0;
+  padding: 0;
+  list-style: none;}
+a{text-decoration: none;}
+
+
+.top{height: 80px;
+	   width:100%; 
+     background-color: white;}
+.daohang{height: 80px;
+	        width: 1578px;
+            background-color: rgba(0,0,0,0);
+            margin: 0 auto;}
+.logo{float: left;
+      margin-top:20px;
+      margin-left: 150px;}
+.xuanxiang{float: right;
+           margin-top:30px;
+           margin-right: 140px;}
+.one{color: #16B0DC;
+     font-size: 14px;
+     margin-left: 25px;}
+.two{color: black;
+     font-size: 14px;
+     margin-left: 25px;}
+.two:hover{color: #16B0DC;}
+/*导航栏*/
+.big{height: 1325px;
+       width: 100%;
+       background-color: #F5F5F5;
+       border-top: 1px;
+       border-top-style: solid;
+       border-top-color: rgba(0,0,0,0.2);}
+/*大底背景*/
+.hh{height: 50px;
+     width: 150px;
+     color: #f67a82;
+     font-size: 36px;
+     margin: 0 auto;
+     margin-top: 40px;
+     margin-bottom: 40px;}
+/*留言建议标题*/
+.little{height: 1388px;
+        width: 1278px;
+        background-color: #F5F5F5;
+        margin: 0 auto;}
+/*小居中背景*/
+.left{height: 1159px;
+      width: 933px;
+      background-color: white;
+      float: left;}
+.leftone{height: 100px;
+         width: 872px;
+         background-color: white;
+         /*margin-top: 30px;*/
+         margin-left: auto;
+         margin-right: auto;
+         border:1px;
+         border-style: solid;
+         border-color: white;}
+.leftone:hover{
+	background: #f5f5f5;
+}
+.tuuu{margin-top: 30px;
+      float: left;}
+.ziii{margin-top: 30px;
+      margin-left: 10px;
+      float: left;}
+.ziii h4{font-weight: normal;}
+.ziii p{color: #76838F;}
+.time{margin-top: 30px;
+      font-size: 12px;
+      color: #76838F;
+      float: right;}
+/*第一条留言*/
+.lefttwo{height: 100px;
+         width: 873px;
+         background-color: white;
+         margin-left: auto;
+         margin-right: auto;
+         border-top:1px;
+         border-bottom:1px;
+         border-top-style: solid;
+         border-bottom-style: solid;
+         border-top-color: #E4EAEC;
+         border-bottom-color: #E4EAEC;}
+.leftthree{height: 100px;
+         width: 873px;
+         background-color: white;
+         margin-left: auto;
+         margin-right: auto;
+         border-bottom:1px;
+         border-bottom-style: solid;  
+         border-bottom-color: #E4EAEC;}
+.jiazai{height: 50px;
+        width: 873px;
+        background-color: #E4EAEC;
+        float: left;
+        margin-left: 30px;
+        margin-top: 30px;
+        line-height: 50px;
+        text-align: center;}
+.right{height: 470px;
+       width: 320px;
+       background-color: white;
+       margin-left: 20px;
+       float: left;
+       border: 1px;
+       border-style: solid;
+       border-color: white;}
+.rightone{margin-top: 20px;
+          margin-bottom: 20px;
+          margin-left: 25px;}
+.rightone input{height: 40px;
+                width: 270px;}
+.right .righttwo input{height: 40px;
+                       width: 188px;
+                       float: left;}
+.righttwo{height: 40px;
+          width: 285px;
+          margin-top: 5px;
+          margin-left: 25px;}
+.righttwo img{float: left;}
+.rightthree{height: 40px;
+            width: 270px;
+            background-color: #62A8EA;
+            margin-top: 20px;
+            margin-left: 25px;
+            line-height: 40px;
+            color: white;
+            text-align: center;}
+/*右侧*/
+.dibu{height: 160px;
+    width: 100%;
+      background-color: #F5F5F5;
+      border: 1px;
+      border-style: solid;
+      border-color: #F5F5F5;}
+.qq{height: 40px;
+    width: 160px;
+    background-color: #F5F5F5;
+    margin: 0 auto;
+    margin-top: 25px;
+    margin-bottom: 25px;}
+.beian{height: 25px;
+     width: 420px;
+       background-color: #F5F5F5;
+       color: #16B0DC;
+       margin: 0 auto;}
+.lianxi{height: 25px;
+        width: 300px;
+        background-color: #F5F5F5;
+        font-size: 16px;
+        color: rgba(0,0,0,0.5);
+        margin: 0 auto;}
+.banquan{height: 25px;
+        width: 360px;
+        background-color: #F5F5F5;
+        font-size: 16px;
+        color: rgba(0,0,0,0.5);
+        margin: 0 auto;}
+.white{height: 25px;
+       width: 100%;
+       background-color: white;}
+input{
+	border: 1px solid #cccccc;
+}
+textarea{
+	border: 1px solid #CCCCCC;
+	resize: none;
+}
+body{
+	overflow-x: hidden;
+}
+/*input::-webkit-input-placeholder{
+	color: red;
+}*/
+input::placeholder{
+	color: #A3AFB7;
+}
+textarea::placeholder{
+	color: #A3AFB7;
+}
+.text{
+	width: 100%;
+	font-size: 14px;
+	color: #A3AFB7;
+	text-align: center;
+}
+.text span{
+	color: red;
+}
